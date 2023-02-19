@@ -1,5 +1,6 @@
 
-You just released the advanced tasks of this project. Have fun!
+This is a team project by Nandila Mulilalila and Ademola Bello
+
 0x16. C - Simple Shell
 C
 Group project
