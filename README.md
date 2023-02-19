@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 You have a captain's log due before 2023-02-19 (in about 21 hours)! Log it now!
 0x16. C - Simple Shell
@@ -278,3 +279,6 @@ Repo:
 GitHub repository: simple_shell
   
 Copyright © 2023 ALX, All rights reserved.
+=======
+0x16. C - Simple Shell
+>>>>>>> 532d8d21229701bf26a9b50e32802568a66964f1
